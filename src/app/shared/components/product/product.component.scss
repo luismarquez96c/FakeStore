@@ -1,0 +1,16 @@
+p, h2 {
+  margin: 0;
+}
+.title {
+  font-weight: bold;
+}
+.category {
+  font-style: italic;
+}
+
+.btn-actions{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
